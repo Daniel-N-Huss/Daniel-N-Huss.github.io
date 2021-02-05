@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daniel N Huss Development
+title: Daniel N Huss
+tagline: Heuristic Techgnosis
 email: daniel.n.huss@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Web Developer. Aspiring Technomancer.
@@ -29,8 +30,8 @@ github_username:  Daniel-N-Huss
 
 # Build settings
 theme: minima
-#plugins:
-  #- jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
