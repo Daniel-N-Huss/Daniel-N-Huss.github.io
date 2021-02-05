@@ -17,6 +17,6 @@ Hello World. The Perfect Program.
   puts "Hello World"
 {% endhighlight %}
 
-Most of programs come from the same origin. This site is no different.
+Most programs come from the same origin. This site is no different.
 
 See You Soon.
