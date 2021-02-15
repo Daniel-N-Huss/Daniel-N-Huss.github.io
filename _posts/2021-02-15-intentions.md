@@ -5,11 +5,6 @@ date:   2021-02-15 13:45:00 -0700
 categories: [Hrstc, Film]
 ---
 
-# "Who Am I?"
-## &nbsp;&nbsp;&nbsp;&nbsp; *another impossible question*
-
-&nbsp;
-
 Why have I written this article 3 times before posting it? Each time I was trying to polish up my story to look pretty it condensed into a 'generic inspirational motivating' peice of BS writing you see all those "career guru" types doing.
 
 **That isn't what we're doing here.**
