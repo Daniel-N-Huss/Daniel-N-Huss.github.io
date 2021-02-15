@@ -223,7 +223,14 @@ pre {
   }
 }
 
-
+.bg-sigil { 
+  position: fixed;
+  z-index: -1;
+  opacity: 14%;
+  width: 300px;
+  top: 28%;
+  right: 0%;
+}
 
 /**
  * Tables
