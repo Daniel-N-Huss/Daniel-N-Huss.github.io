@@ -186,6 +186,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  font-family: $title-font;
 }
 
 .post-list {
@@ -205,8 +206,12 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  font-family: $title-font;
 }
 
+.comment { 
+  font-size: .8em;
+}
 
 
 /**
